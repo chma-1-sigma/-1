@@ -1,0 +1,162 @@
+﻿<Window x:Class="PassOfficeApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ХранительПРО - Система заказа пропусков" 
+        Height="750" Width="1100"
+        WindowStartupLocation="CenterScreen"
+        Background="#F0F4F8">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+
+        <!-- Верхняя панель -->
+        <Border Grid.Row="0" Background="#1E3A5F">
+            <Grid>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="20,0">
+                    <TextBlock Text="🛡️ ХранительПРО" FontSize="22" FontWeight="Bold" Foreground="White"/>
+                    <TextBlock Text=" | Система заказа пропусков" FontSize="14" Foreground="#B0C4DE" VerticalAlignment="Bottom" Margin="10,0,0,5"/>
+                </StackPanel>
+
+                <StackPanel x:Name="userPanel" Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,20,0" Visibility="Collapsed">
+                    <Border Background="#2E5A88" CornerRadius="20" Padding="12,5">
+                        <TextBlock x:Name="userEmailText" Foreground="White" FontSize="12"/>
+                    </Border>
+                    <Button x:Name="logoutButton" Content="Выйти" Click="LogoutButton_Click" 
+                            Background="#C0392B" Foreground="White" 
+                            Height="32" Margin="10,0,0,0" Cursor="Hand"/>
+                </StackPanel>
+            </Grid>
+        </Border>
+
+        <!-- Основное содержимое -->
+        <Grid Grid.Row="1" x:Name="mainContent">
+
+            <!-- Форма авторизации -->
+            <Border x:Name="loginPanel" Background="White" Margin="40" CornerRadius="16" Padding="0">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="300"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <!-- Левая панель -->
+                    <Border Grid.Column="0" Background="#1E3A5F" CornerRadius="16,0,0,16">
+                        <StackPanel VerticalAlignment="Center" Margin="20">
+                            <TextBlock Text="🔐" FontSize="64" HorizontalAlignment="Center"/>
+                            <TextBlock Text="Добро пожаловать" FontSize="24" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center" Margin="0,20,0,5"/>
+                            <TextBlock Text="Войдите в систему для оформления пропуска" FontSize="12" Foreground="#B0C4DE" TextWrapping="Wrap" HorizontalAlignment="Center" TextAlignment="Center"/>
+                        </StackPanel>
+                    </Border>
+
+                    <!-- Правая панель -->
+                    <StackPanel Grid.Column="1" Width="380" HorizontalAlignment="Center" VerticalAlignment="Center">
+                        <TextBlock Text="Авторизация" FontSize="28" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,0,0,30"/>
+
+                        <TextBlock Text="Email" Margin="0,0,0,5" FontWeight="SemiBold"/>
+                        <TextBox x:Name="loginEmail" Height="35" BorderBrush="#D0D5DD" BorderThickness="1" Padding="10,0" Margin="0,0,0,15"/>
+
+                        <TextBlock Text="Пароль" Margin="0,0,0,5" FontWeight="SemiBold"/>
+                        <PasswordBox x:Name="loginPassword" Height="35" BorderBrush="#D0D5DD" BorderThickness="1" Padding="10,0" Margin="0,0,0,15"/>
+
+                        <TextBlock Text="Способ авторизации" Margin="0,0,0,5" FontWeight="SemiBold"/>
+                        <ComboBox x:Name="authMethodCombo" Height="35" Margin="0,0,0,20">
+                            <ComboBoxItem Content="📝 SQL запрос" IsSelected="True"/>
+                            <ComboBoxItem Content="🗄️ Хранимая процедура"/>
+                            <ComboBoxItem Content="🔷 ORM (Entity Framework)"/>
+                        </ComboBox>
+
+                        <Button x:Name="loginButton" Content="Войти" Click="LoginButton_Click" 
+                                Background="#27AE60" Foreground="White" Height="40" FontSize="14" Cursor="Hand" Margin="0,0,0,15"/>
+
+                        <TextBlock Text="Нет аккаунта? " HorizontalAlignment="Center">
+                            <Hyperlink x:Name="registerLink" Click="RegisterLink_Click" Foreground="#1E3A5F">Зарегистрироваться</Hyperlink>
+                        </TextBlock>
+
+                        <TextBlock x:Name="loginErrorText" Foreground="#E74C3C" TextWrapping="Wrap" Margin="0,15,0,0" HorizontalAlignment="Center" FontSize="12"/>
+                    </StackPanel>
+                </Grid>
+            </Border>
+
+            <!-- Форма регистрации -->
+            <Border x:Name="registerPanel" Background="White" Margin="40" CornerRadius="16" Padding="0" Visibility="Collapsed">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="300"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Border Grid.Column="0" Background="#1E3A5F" CornerRadius="16,0,0,16">
+                        <StackPanel VerticalAlignment="Center" Margin="20">
+                            <TextBlock Text="📝" FontSize="64" HorizontalAlignment="Center"/>
+                            <TextBlock Text="Регистрация" FontSize="24" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center" Margin="0,20,0,5"/>
+                            <TextBlock Text="Создайте аккаунт для оформления пропусков" FontSize="12" Foreground="#B0C4DE" TextWrapping="Wrap" HorizontalAlignment="Center" TextAlignment="Center"/>
+                        </StackPanel>
+                    </Border>
+
+                    <StackPanel Grid.Column="1" Width="400" HorizontalAlignment="Center" VerticalAlignment="Center">
+                        <TextBlock Text="Регистрация" FontSize="28" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,0,0,20"/>
+
+                        <TextBlock Text="Email" Margin="0,0,0,5" FontWeight="SemiBold"/>
+                        <TextBox x:Name="regEmail" Height="35" BorderBrush="#D0D5DD" BorderThickness="1" Padding="10,0" Margin="0,0,0,10"/>
+
+                        <TextBlock Text="Пароль" Margin="0,0,0,5" FontWeight="SemiBold"/>
+                        <PasswordBox x:Name="regPassword" Height="35" BorderBrush="#D0D5DD" BorderThickness="1" Padding="10,0" Margin="0,0,0,5"/>
+                        <TextBlock Text="(мин. 8 символов, заглавные/строчные, цифры, спецсимволы)" FontSize="10" Foreground="Gray" Margin="0,0,0,10"/>
+
+                        <TextBlock Text="Подтверждение пароля" Margin="0,0,0,5" FontWeight="SemiBold"/>
+                        <PasswordBox x:Name="regConfirmPassword" Height="35" BorderBrush="#D0D5DD" BorderThickness="1" Padding="10,0" Margin="0,0,0,15"/>
+
+                        <TextBlock Text="Способ регистрации" Margin="0,0,0,5" FontWeight="SemiBold"/>
+                        <ComboBox x:Name="regMethodCombo" Height="35" Margin="0,0,0,20">
+                            <ComboBoxItem Content="📝 SQL запрос" IsSelected="True"/>
+                            <ComboBoxItem Content="🗄️ Хранимая процедура"/>
+                            <ComboBoxItem Content="🔷 ORM (Entity Framework)"/>
+                        </ComboBox>
+
+                        <Button x:Name="registerButton" Content="Зарегистрироваться" Click="RegisterButton_Click" 
+                                Background="#27AE60" Foreground="White" Height="40" FontSize="14" Cursor="Hand" Margin="0,0,0,15"/>
+
+                        <TextBlock Text="Уже есть аккаунт? " HorizontalAlignment="Center">
+                            <Hyperlink x:Name="backToLoginLink" Click="BackToLoginLink_Click" Foreground="#1E3A5F">Войти</Hyperlink>
+                        </TextBlock>
+
+                        <TextBlock x:Name="registerErrorText" Foreground="#E74C3C" TextWrapping="Wrap" Margin="0,15,0,0" HorizontalAlignment="Center" FontSize="12"/>
+                    </StackPanel>
+                </Grid>
+            </Border>
+
+            <!-- Основное приложение -->
+            <Grid x:Name="appPanel" Visibility="Collapsed">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="260"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <!-- Боковое меню -->
+                <Border Grid.Column="0" Background="#1E3A5F">
+                    <StackPanel Margin="15">
+                        <Button x:Name="newRequestButton" Content="➕ Новая заявка" Click="NewRequestButton_Click" 
+                                Background="#3498DB" Foreground="White" Height="50" FontSize="14" Cursor="Hand" Margin="0,10"/>
+                        <Button x:Name="myRequestsButton" Content="📋 Мои заявки" Click="MyRequestsButton_Click" 
+                                Background="#3498DB" Foreground="White" Height="50" FontSize="14" Cursor="Hand" Margin="0,5"/>
+                    </StackPanel>
+                </Border>
+
+                <!-- Область контента -->
+                <Border Grid.Column="1" Background="#F0F4F8">
+                    <Frame x:Name="contentFrame" NavigationUIVisibility="Hidden"/>
+                </Border>
+            </Grid>
+        </Grid>
+
+        <!-- Нижняя панель -->
+        <Border Grid.Row="2" Background="#1E3A5F">
+            <TextBlock Text="© 2024 ХранительПРО - Система заказа пропусков на объекты КИИ" 
+                       Foreground="#7F8C8D" FontSize="11" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Border>
+    </Grid>
+</Window>
