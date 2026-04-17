@@ -1,0 +1,140 @@
+﻿<Page x:Class="PassOfficeApp.Pages.PersonalRequestPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Личное посещение" Background="#F0F4F8">
+
+    <ScrollViewer>
+        <StackPanel Margin="20">
+            <TextBlock Text="Оформление личной заявки" FontSize="24" FontWeight="Bold" Margin="0,0,0,20"/>
+
+            <Border Background="White" CornerRadius="12" Padding="20" Margin="0,0,0,15">
+                <StackPanel>
+                    <TextBlock Text="Информация для пропуска" FontSize="16" FontWeight="Bold" Margin="0,0,0,15"/>
+                    <Grid Margin="0,0,0,10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Срок действия:" Grid.Column="0" Margin="0,0,15,0"/>
+                        <DatePicker x:Name="startDatePicker" Grid.Column="1" Width="180"/>
+                        <TextBlock Text="по" Grid.Column="2" Margin="15,0,15,0"/>
+                        <DatePicker x:Name="endDatePicker" Grid.Column="3" Width="180"/>
+                    </Grid>
+
+                    <TextBlock Text="Цель посещения:" Margin="0,10,0,5"/>
+                    <ComboBox x:Name="purposeCombo" Height="35" DisplayMemberPath="purpose_name" SelectedValuePath="id"/>
+                </StackPanel>
+            </Border>
+
+            <Border Background="White" CornerRadius="12" Padding="20" Margin="0,0,0,15">
+                <StackPanel>
+                    <TextBlock Text="Принимающая сторона" FontSize="16" FontWeight="Bold" Margin="0,0,0,15"/>
+                    <TextBlock Text="Подразделение:" Margin="0,0,0,5"/>
+                    <ComboBox x:Name="departmentCombo" Height="35" DisplayMemberPath="name" SelectedValuePath="id" SelectionChanged="DepartmentCombo_SelectionChanged" Margin="0,0,0,10"/>
+                    <TextBlock Text="Сотрудник:" Margin="0,0,0,5"/>
+                    <ComboBox x:Name="employeeCombo" Height="35" DisplayMemberPath="full_name" SelectedValuePath="id" IsEnabled="False"/>
+                </StackPanel>
+            </Border>
+
+            <Border Background="White" CornerRadius="12" Padding="20" Margin="0,0,0,15">
+                <StackPanel>
+                    <TextBlock Text="Информация о посетителе" FontSize="16" FontWeight="Bold" Margin="0,0,0,15"/>
+                    <Grid Margin="0,0,0,10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.Column="0" Margin="0,0,10,0">
+                            <TextBlock Text="Фамилия:*"/>
+                            <TextBox x:Name="lastNameBox" Height="35"/>
+                        </StackPanel>
+                        <StackPanel Grid.Column="1" Margin="0,0,10,0">
+                            <TextBlock Text="Имя:*"/>
+                            <TextBox x:Name="firstNameBox" Height="35"/>
+                        </StackPanel>
+                        <StackPanel Grid.Column="2">
+                            <TextBlock Text="Отчество:"/>
+                            <TextBox x:Name="middleNameBox" Height="35"/>
+                        </StackPanel>
+                    </Grid>
+                    <Grid Margin="0,0,0,10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.Column="0" Margin="0,0,10,0">
+                            <TextBlock Text="Телефон:"/>
+                            <TextBox x:Name="phoneBox" Height="35" Text="+7 "/>
+                        </StackPanel>
+                        <StackPanel Grid.Column="1">
+                            <TextBlock Text="Email:*"/>
+                            <TextBox x:Name="emailBox" Height="35"/>
+                        </StackPanel>
+                    </Grid>
+                    <Grid Margin="0,0,0,10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.Column="0" Margin="0,0,10,0">
+                            <TextBlock Text="Организация:"/>
+                            <TextBox x:Name="organizationBox" Height="35"/>
+                        </StackPanel>
+                        <StackPanel Grid.Column="1">
+                            <TextBlock Text="Дата рождения:*"/>
+                            <DatePicker x:Name="birthDatePicker" Height="35"/>
+                        </StackPanel>
+                    </Grid>
+                    <TextBlock Text="Примечание:*" Margin="0,0,0,5"/>
+                    <TextBox x:Name="commentBox" Height="80" TextWrapping="Wrap" AcceptsReturn="True"/>
+                </StackPanel>
+            </Border>
+
+            <Border Background="White" CornerRadius="12" Padding="20" Margin="0,0,0,15">
+                <StackPanel>
+                    <TextBlock Text="Паспортные данные" FontSize="16" FontWeight="Bold" Margin="0,0,0,15"/>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.Column="0" Margin="0,0,10,0">
+                            <TextBlock Text="Серия паспорта:* (4 цифры)"/>
+                            <TextBox x:Name="passportSeriesBox" Height="35" MaxLength="4"/>
+                        </StackPanel>
+                        <StackPanel Grid.Column="1">
+                            <TextBlock Text="Номер паспорта:* (6 цифр)"/>
+                            <TextBox x:Name="passportNumberBox" Height="35" MaxLength="6"/>
+                        </StackPanel>
+                    </Grid>
+                </StackPanel>
+            </Border>
+
+            <Border Background="White" CornerRadius="12" Padding="20" Margin="0,0,0,15">
+                <StackPanel>
+                    <TextBlock Text="Прикрепляемые документы" FontSize="16" FontWeight="Bold" Margin="0,0,0,15"/>
+                    <TextBlock Text="Фотография (jpg, 3x4, до 4 Мб):" Margin="0,0,0,5"/>
+                    <StackPanel Orientation="Horizontal" Margin="0,5,0,15">
+                        <TextBox x:Name="photoPathBox" Width="300" IsReadOnly="True"/>
+                        <Button x:Name="selectPhotoButton" Content="Выбрать фото" Click="SelectPhoto_Click" Margin="10,0,0,0"/>
+                    </StackPanel>
+                    <TextBlock Text="Скан паспорта (pdf):*" Margin="0,0,0,5"/>
+                    <StackPanel Orientation="Horizontal" Margin="0,5,0,0">
+                        <TextBox x:Name="scanPathBox" Width="300" IsReadOnly="True"/>
+                        <Button x:Name="selectScanButton" Content="Выбрать PDF" Click="SelectScan_Click" Margin="10,0,0,0"/>
+                    </StackPanel>
+                </StackPanel>
+            </Border>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,20,0,30">
+                <Button x:Name="submitButton" Content="Оформить заявку" Click="SubmitButton_Click" Background="#27AE60" Foreground="White" Width="200" Height="40" Margin="0,0,10,0"/>
+                <Button x:Name="clearButton" Content="Очистить форму" Click="ClearButton_Click" Background="#E74C3C" Foreground="White" Width="200" Height="40"/>
+            </StackPanel>
+
+            <TextBlock x:Name="errorText" Foreground="Red" TextWrapping="Wrap" HorizontalAlignment="Center"/>
+        </StackPanel>
+    </ScrollViewer>
+</Page>

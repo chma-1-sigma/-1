@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\passofficeapp\\passofficeapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|solutionrelative:passofficeapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\passofficeapp\\passofficeapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|solutionrelative:passofficeapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\passofficeapp\\passofficeapp\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|solutionrelative:passofficeapp\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\passofficeapp\\passofficeapp\\authwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|solutionrelative:passofficeapp\\authwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\passofficeapp\\passofficeapp\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|solutionrelative:passofficeapp\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\passofficeapp\\passofficeapp\\pages\\grouprequestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|solutionrelative:passofficeapp\\pages\\grouprequestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\passofficeapp\\passofficeapp\\pages\\grouprequestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|solutionrelative:passofficeapp\\pages\\grouprequestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\passofficeapp\\passofficeapp\\authwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|solutionrelative:passofficeapp\\authwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\passofficeapp\\passofficeapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|solutionrelative:passofficeapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\passofficeapp\\passofficeapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|solutionrelative:passofficeapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\passofficeapp\\passofficeapp\\services\\postgresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|solutionrelative:passofficeapp\\services\\postgresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\passofficeapp\\passofficeapp\\rejectionreasondialog.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|solutionrelative:passofficeapp\\rejectionreasondialog.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\passofficeapp\\passofficeapp\\rejectionreasondialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|solutionrelative:passofficeapp\\rejectionreasondialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\passofficeapp\\passofficeapp\\requestreviewdialog.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|solutionrelative:passofficeapp\\requestreviewdialog.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\passofficeapp\\passofficeapp\\requestreviewdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|solutionrelative:passofficeapp\\requestreviewdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\passofficeapp\\passofficeapp\\generaldeptwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|solutionrelative:passofficeapp\\generaldeptwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\passofficeapp\\passofficeapp\\generaldeptwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|solutionrelative:passofficeapp\\generaldeptwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\passofficeapp\\passofficeapp\\pages\\myrequestspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|solutionrelative:passofficeapp\\pages\\myrequestspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\passofficeapp\\passofficeapp\\pages\\myrequestspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|solutionrelative:passofficeapp\\pages\\myrequestspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\passofficeapp\\passofficeapp\\pages\\personalrequestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|solutionrelative:passofficeapp\\pages\\personalrequestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\passofficeapp\\passofficeapp\\pages\\personalrequestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|solutionrelative:passofficeapp\\pages\\personalrequestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\passofficeapp\\passofficeapp\\pages\\addvisitordialog.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|solutionrelative:passofficeapp\\pages\\addvisitordialog.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\passofficeapp\\passofficeapp\\pages\\addvisitordialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|solutionrelative:passofficeapp\\pages\\addvisitordialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\passofficeapp\\passofficeapp\\services\\imagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|solutionrelative:passofficeapp\\services\\imagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\passofficeapp\\passofficeapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|solutionrelative:passofficeapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\passofficeapp\\passofficeapp\\statustocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|solutionrelative:passofficeapp\\statustocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\passofficeapp\\passofficeapp\\passofficeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|solutionrelative:passofficeapp\\passofficeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|c:\\shumailov\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\passofficeapp\\passofficeapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8050EA66-24D6-7CCE-5A58-F741A9816E0B}|PassOfficeApp\\PassOfficeApp.csproj|solutionrelative:passofficeapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PassOfficeApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\MainWindow.xaml",
+              "RelativeToolTip": "PassOfficeApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-16T05:25:40.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthWindow.xaml",
+              "DocumentMoniker": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\AuthWindow.xaml",
+              "RelativeDocumentMoniker": "PassOfficeApp\\AuthWindow.xaml",
+              "ToolTip": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\AuthWindow.xaml",
+              "RelativeToolTip": "PassOfficeApp\\AuthWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-17T10:57:50.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "PassOfficeApp\\Services\\DatabaseService.cs",
+              "ToolTip": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\Services\\DatabaseService.cs",
+              "RelativeToolTip": "PassOfficeApp\\Services\\DatabaseService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwFUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T10:50:16.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PassOfficeApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PassOfficeApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T05:25:33.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GroupRequestPage.xaml.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\Pages\\GroupRequestPage.xaml.cs",
+              "RelativeDocumentMoniker": "PassOfficeApp\\Pages\\GroupRequestPage.xaml.cs",
+              "ToolTip": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\Pages\\GroupRequestPage.xaml.cs",
+              "RelativeToolTip": "PassOfficeApp\\Pages\\GroupRequestPage.xaml.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAswBYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T10:53:43.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\Models\\Models.cs",
+              "RelativeDocumentMoniker": "PassOfficeApp\\Models\\Models.cs",
+              "ToolTip": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\Models\\Models.cs",
+              "RelativeToolTip": "PassOfficeApp\\Models\\Models.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAA7wKAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T12:23:34.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\AuthWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PassOfficeApp\\AuthWindow.xaml.cs",
+              "ToolTip": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\AuthWindow.xaml.cs",
+              "RelativeToolTip": "PassOfficeApp\\AuthWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T10:58:04.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GroupRequestPage.xaml",
+              "DocumentMoniker": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\Pages\\GroupRequestPage.xaml",
+              "RelativeDocumentMoniker": "PassOfficeApp\\Pages\\GroupRequestPage.xaml",
+              "ToolTip": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\Pages\\GroupRequestPage.xaml",
+              "RelativeToolTip": "PassOfficeApp\\Pages\\GroupRequestPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-17T10:52:54.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "PassOfficeApp\\App.xaml.cs",
+              "ToolTip": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\App.xaml.cs",
+              "RelativeToolTip": "PassOfficeApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T10:56:22.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\App.xaml",
+              "RelativeDocumentMoniker": "PassOfficeApp\\App.xaml",
+              "ToolTip": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\App.xaml",
+              "RelativeToolTip": "PassOfficeApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-16T05:42:39.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PostgresService.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\Services\\PostgresService.cs",
+              "RelativeDocumentMoniker": "PassOfficeApp\\Services\\PostgresService.cs",
+              "ToolTip": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\Services\\PostgresService.cs",
+              "RelativeToolTip": "PassOfficeApp\\Services\\PostgresService.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAvwNwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T05:37:42.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RejectionReasonDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\RejectionReasonDialog.xaml.cs",
+              "RelativeDocumentMoniker": "PassOfficeApp\\RejectionReasonDialog.xaml.cs",
+              "ToolTip": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\RejectionReasonDialog.xaml.cs",
+              "RelativeToolTip": "PassOfficeApp\\RejectionReasonDialog.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T10:59:02.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RejectionReasonDialog.xaml",
+              "DocumentMoniker": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\RejectionReasonDialog.xaml",
+              "RelativeDocumentMoniker": "PassOfficeApp\\RejectionReasonDialog.xaml",
+              "ToolTip": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\RejectionReasonDialog.xaml",
+              "RelativeToolTip": "PassOfficeApp\\RejectionReasonDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-17T10:58:53.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RequestReviewDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\RequestReviewDialog.xaml.cs",
+              "RelativeDocumentMoniker": "PassOfficeApp\\RequestReviewDialog.xaml.cs",
+              "ToolTip": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\RequestReviewDialog.xaml.cs",
+              "RelativeToolTip": "PassOfficeApp\\RequestReviewDialog.xaml.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAswGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T10:58:30.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RequestReviewDialog.xaml",
+              "DocumentMoniker": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\RequestReviewDialog.xaml",
+              "RelativeDocumentMoniker": "PassOfficeApp\\RequestReviewDialog.xaml",
+              "ToolTip": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\RequestReviewDialog.xaml",
+              "RelativeToolTip": "PassOfficeApp\\RequestReviewDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-17T10:58:23.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GeneralDeptWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\GeneralDeptWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PassOfficeApp\\GeneralDeptWindow.xaml.cs",
+              "ToolTip": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\GeneralDeptWindow.xaml.cs",
+              "RelativeToolTip": "PassOfficeApp\\GeneralDeptWindow.xaml.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswG4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T10:57:20.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GeneralDeptWindow.xaml",
+              "DocumentMoniker": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\GeneralDeptWindow.xaml",
+              "RelativeDocumentMoniker": "PassOfficeApp\\GeneralDeptWindow.xaml",
+              "ToolTip": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\GeneralDeptWindow.xaml",
+              "RelativeToolTip": "PassOfficeApp\\GeneralDeptWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-17T10:57:11.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MyRequestsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\Pages\\MyRequestsPage.xaml.cs",
+              "RelativeDocumentMoniker": "PassOfficeApp\\Pages\\MyRequestsPage.xaml.cs",
+              "ToolTip": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\Pages\\MyRequestsPage.xaml.cs",
+              "RelativeToolTip": "PassOfficeApp\\Pages\\MyRequestsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T05:45:07.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MyRequestsPage.xaml",
+              "DocumentMoniker": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\Pages\\MyRequestsPage.xaml",
+              "RelativeDocumentMoniker": "PassOfficeApp\\Pages\\MyRequestsPage.xaml",
+              "ToolTip": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\Pages\\MyRequestsPage.xaml",
+              "RelativeToolTip": "PassOfficeApp\\Pages\\MyRequestsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-16T05:40:27.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PersonalRequestPage.xaml",
+              "DocumentMoniker": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\Pages\\PersonalRequestPage.xaml",
+              "RelativeDocumentMoniker": "PassOfficeApp\\Pages\\PersonalRequestPage.xaml",
+              "ToolTip": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\Pages\\PersonalRequestPage.xaml",
+              "RelativeToolTip": "PassOfficeApp\\Pages\\PersonalRequestPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-16T05:39:56.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PersonalRequestPage.xaml.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\Pages\\PersonalRequestPage.xaml.cs",
+              "RelativeDocumentMoniker": "PassOfficeApp\\Pages\\PersonalRequestPage.xaml.cs",
+              "ToolTip": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\Pages\\PersonalRequestPage.xaml.cs",
+              "RelativeToolTip": "PassOfficeApp\\Pages\\PersonalRequestPage.xaml.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAuwLQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T05:44:33.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddVisitorDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\Pages\\AddVisitorDialog.xaml.cs",
+              "RelativeDocumentMoniker": "PassOfficeApp\\Pages\\AddVisitorDialog.xaml.cs",
+              "ToolTip": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\Pages\\AddVisitorDialog.xaml.cs",
+              "RelativeToolTip": "PassOfficeApp\\Pages\\AddVisitorDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T10:55:54.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddVisitorDialog.xaml",
+              "DocumentMoniker": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\Pages\\AddVisitorDialog.xaml",
+              "RelativeDocumentMoniker": "PassOfficeApp\\Pages\\AddVisitorDialog.xaml",
+              "ToolTip": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\Pages\\AddVisitorDialog.xaml",
+              "RelativeToolTip": "PassOfficeApp\\Pages\\AddVisitorDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-17T10:55:43.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ImageHelper.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\Services\\ImageHelper.cs",
+              "RelativeDocumentMoniker": "PassOfficeApp\\Services\\ImageHelper.cs",
+              "ToolTip": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\Services\\ImageHelper.cs",
+              "RelativeToolTip": "PassOfficeApp\\Services\\ImageHelper.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA7wC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T10:50:39.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\appsettings.json",
+              "RelativeDocumentMoniker": "PassOfficeApp\\appsettings.json",
+              "ToolTip": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\appsettings.json",
+              "RelativeToolTip": "PassOfficeApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-16T05:51:38.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StatusToColorConverter.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\StatusToColorConverter.cs",
+              "RelativeDocumentMoniker": "PassOfficeApp\\StatusToColorConverter.cs",
+              "ToolTip": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\StatusToColorConverter.cs",
+              "RelativeToolTip": "PassOfficeApp\\StatusToColorConverter.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T05:41:14.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PassOfficeApp.csproj",
+              "DocumentMoniker": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\PassOfficeApp.csproj",
+              "RelativeDocumentMoniker": "PassOfficeApp\\PassOfficeApp.csproj",
+              "ToolTip": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\PassOfficeApp.csproj",
+              "RelativeToolTip": "PassOfficeApp\\PassOfficeApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-16T05:40:47.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PassOfficeApp\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Shumailov\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\3 \u0434\u0435\u043D\u044C\\PassOfficeApp\\PassOfficeApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PassOfficeApp\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T05:36:42.283Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
