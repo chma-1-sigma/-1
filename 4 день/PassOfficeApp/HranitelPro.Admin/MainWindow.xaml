@@ -1,0 +1,29 @@
+﻿<Window x:Class="HranitelPro.Admin.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ХранительПРО - Администрирование" Height="500" Width="600"
+        WindowStartupLocation="CenterScreen" Background="#F0F4F8">
+
+    <Border Background="White" CornerRadius="16" Margin="20">
+        <StackPanel Margin="30" VerticalAlignment="Center">
+            <TextBlock Text="ХранительПРО" FontSize="28" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,0,0,10"/>
+            <TextBlock Text="Выберите терминал" FontSize="16" Foreground="Gray" HorizontalAlignment="Center" Margin="0,0,0,30"/>
+
+            <Button x:Name="btnGeneralDept" Content="Терминал сотрудника общего отдела" 
+                    Click="BtnGeneralDept_Click" Background="#3498DB" Foreground="White" 
+                    Height="50" FontSize="14" Cursor="Hand" Margin="0,5"/>
+
+            <Button x:Name="btnSecurity" Content="Терминал сотрудника охраны" 
+                    Click="BtnSecurity_Click" Background="#27AE60" Foreground="White" 
+                    Height="50" FontSize="14" Cursor="Hand" Margin="0,5"/>
+
+            <Button x:Name="btnDepartment" Content="Терминал сотрудника подразделения" 
+                    Click="BtnDepartment_Click" Background="#F39C12" Foreground="White" 
+                    Height="50" FontSize="14" Cursor="Hand" Margin="0,5"/>
+
+            <Button x:Name="btnExit" Content="Выход" Click="BtnExit_Click" 
+                    Background="#95A5A6" Foreground="White" Height="40" FontSize="14" 
+                    Cursor="Hand" Margin="0,20,0,0"/>
+        </StackPanel>
+    </Border>
+</Window>

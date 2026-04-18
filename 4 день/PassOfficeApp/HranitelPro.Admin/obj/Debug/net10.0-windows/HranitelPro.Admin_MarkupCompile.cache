@@ -1,0 +1,20 @@
+﻿HranitelPro.Admin
+
+
+winexe
+C#
+.cs
+C:\Shumailov\Практика\4 день\PassOfficeApp\HranitelPro.Admin\obj\Debug\net10.0-windows\
+HranitelPro.Admin
+none
+false
+TRACE;DEBUG;NET;NET10_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NET10_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+C:\Shumailov\Практика\4 день\PassOfficeApp\HranitelPro.Admin\App.xaml
+10597719633
+
+15194934684
+220516299364
+AddToBlacklistDialog.xaml;AuthWindow.xaml;DepartmentWindow.xaml;GeneralDeptWindow.xaml;MainWindow.xaml;RejectionReasonDialog.xaml;ReportWindow.xaml;RequestReviewDialog.xaml;SecurityWindow.xaml;SelectMemberDialog.xaml;
+
+False
+

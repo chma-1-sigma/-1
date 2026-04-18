@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="HranitelPro.Admin/HranitelPro.Admin.csproj" Id="d4879606-b8aa-4472-b93d-324e590d923b" />
+  <Project Path="PassOfficeApp/PassOfficeApp.csproj" />
+</Solution>
