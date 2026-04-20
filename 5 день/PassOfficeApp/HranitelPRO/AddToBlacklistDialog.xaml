@@ -1,0 +1,30 @@
+﻿<Window x:Class="HranitelPRO.AddToBlacklistDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Добавление в черный список" Height="450" Width="500"
+        WindowStartupLocation="CenterOwner" ResizeMode="NoResize"
+        Background="#F0F4F8">
+
+    <Border Background="White" CornerRadius="12" Margin="10" Padding="20">
+        <StackPanel>
+            <TextBlock Text="Добавление в черный список" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,0,0,20"/>
+
+            <TextBlock Text="ФИО посетителя:" FontWeight="Bold"/>
+            <TextBlock x:Name="txtFullName" Margin="0,5,0,15" FontSize="14"/>
+
+            <TextBlock Text="Паспортные данные:" FontWeight="Bold"/>
+            <TextBlock x:Name="txtPassport" Margin="0,5,0,15" FontSize="14"/>
+
+            <TextBlock Text="Причина добавления:*" Margin="0,0,0,5" FontWeight="Bold"/>
+            <TextBox x:Name="txtReason" Height="120" TextWrapping="Wrap" AcceptsReturn="True" 
+                     BorderBrush="#D0D5DD" BorderThickness="1" Padding="10,5" Margin="0,0,0,20"/>
+
+            <TextBlock Text="Максимум 5000 символов" FontSize="10" Foreground="Gray" Margin="0,0,0,10" HorizontalAlignment="Right"/>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button x:Name="btnAdd" Content="Добавить" Click="AddButton_Click" Background="#E74C3C" Foreground="White" Height="40" Width="120" Cursor="Hand" Margin="0,0,10,0"/>
+                <Button x:Name="btnCancel" Content="Отмена" Click="CancelButton_Click" Background="#95A5A6" Foreground="White" Height="40" Width="120" Cursor="Hand"/>
+            </StackPanel>
+        </StackPanel>
+    </Border>
+</Window>

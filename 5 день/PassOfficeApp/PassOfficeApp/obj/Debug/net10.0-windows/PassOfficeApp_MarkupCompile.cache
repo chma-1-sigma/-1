@@ -1,0 +1,20 @@
+﻿PassOfficeApp
+
+
+winexe
+C#
+.cs
+C:\Shumailov\Практика\4 день\PassOfficeApp\PassOfficeApp\obj\Debug\net10.0-windows\
+PassOfficeApp
+none
+false
+TRACE;DEBUG;NET;NET10_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NET10_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+C:\Shumailov\Практика\4 день\PassOfficeApp\PassOfficeApp\App.xaml
+9907437897
+
+18-75686715
+2291558240483
+AuthWindow.xaml;GeneralDeptWindow.xaml;MainWindow.xaml;Pages\AddVisitorDialog.xaml;Pages\GroupRequestPage.xaml;Pages\MyRequestsPage.xaml;Pages\PersonalRequestPage.xaml;RejectionReasonDialog.xaml;RequestReviewDialog.xaml;
+
+False
+

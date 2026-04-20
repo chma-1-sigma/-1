@@ -1,0 +1,28 @@
+﻿<Window x:Class="HranitelPro.Admin.RejectionReasonDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Причина отклонения" Height="350" Width="500"
+        WindowStartupLocation="CenterOwner" ResizeMode="NoResize">
+
+    <Border Background="White" CornerRadius="12" Margin="10" Padding="20">
+        <StackPanel>
+            <TextBlock Text="Укажите причину отклонения" FontSize="18" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,0,0,20"/>
+            <RadioButton x:Name="rbInvalidData" GroupName="Reason" IsChecked="True" Margin="0,5">
+                <TextBlock TextWrapping="Wrap">Указание заявителем заведомо недостоверных данных</TextBlock>
+            </RadioButton>
+            <RadioButton x:Name="rbMissingFiles" GroupName="Reason" Margin="0,5">
+                <TextBlock TextWrapping="Wrap">Отсутствие или низкое качество прикрепленных файлов</TextBlock>
+            </RadioButton>
+            <RadioButton x:Name="rbOther" GroupName="Reason" Margin="0,5">Другая причина</RadioButton>
+            <TextBox x:Name="txtOtherReason" Height="80" TextWrapping="Wrap" AcceptsReturn="True" 
+                     BorderBrush="#D0D5DD" BorderThickness="1" Padding="10,5" Margin="0,10,0,20" 
+                     IsEnabled="False" Visibility="Collapsed"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button x:Name="btnOk" Content="Отклонить" Click="Ok_Click" 
+                        Background="#E74C3C" Foreground="White" Height="40" Width="120" Cursor="Hand" Margin="0,0,10,0"/>
+                <Button x:Name="btnCancel" Content="Отмена" Click="Cancel_Click" 
+                        Background="#95A5A6" Foreground="White" Height="40" Width="120" Cursor="Hand"/>
+            </StackPanel>
+        </StackPanel>
+    </Border>
+</Window>

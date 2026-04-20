@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "M0uXItx9Kv8=",
+  "success": true,
+  "projectFilePath": "C:\\Shumailov\\Практика\\4 день\\PassOfficeApp\\HranitelPRO\\HranitelPRO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kab33-10\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
+    "C:\\Users\\Kab33-10\\.nuget\\packages\\itextsharp.lgplv2.core\\3.7.12\\itextsharp.lgplv2.core.3.7.12.nupkg.sha512",
+    "C:\\Users\\Kab33-10\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.6\\microsoft.extensions.configuration.10.0.6.nupkg.sha512",
+    "C:\\Users\\Kab33-10\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.6\\microsoft.extensions.configuration.abstractions.10.0.6.nupkg.sha512",
+    "C:\\Users\\Kab33-10\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\10.0.6\\microsoft.extensions.configuration.fileextensions.10.0.6.nupkg.sha512",
+    "C:\\Users\\Kab33-10\\.nuget\\packages\\microsoft.extensions.configuration.json\\10.0.6\\microsoft.extensions.configuration.json.10.0.6.nupkg.sha512",
+    "C:\\Users\\Kab33-10\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\Kab33-10\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\10.0.6\\microsoft.extensions.fileproviders.abstractions.10.0.6.nupkg.sha512",
+    "C:\\Users\\Kab33-10\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\10.0.6\\microsoft.extensions.fileproviders.physical.10.0.6.nupkg.sha512",
+    "C:\\Users\\Kab33-10\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\10.0.6\\microsoft.extensions.filesystemglobbing.10.0.6.nupkg.sha512",
+    "C:\\Users\\Kab33-10\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\Kab33-10\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.6\\microsoft.extensions.primitives.10.0.6.nupkg.sha512",
+    "C:\\Users\\Kab33-10\\.nuget\\packages\\npgsql\\10.0.2\\npgsql.10.0.2.nupkg.sha512",
+    "C:\\Users\\Kab33-10\\.nuget\\packages\\skiasharp\\3.119.1\\skiasharp.3.119.1.nupkg.sha512",
+    "C:\\Users\\Kab33-10\\.nuget\\packages\\skiasharp.nativeassets.macos\\3.119.1\\skiasharp.nativeassets.macos.3.119.1.nupkg.sha512",
+    "C:\\Users\\Kab33-10\\.nuget\\packages\\skiasharp.nativeassets.win32\\3.119.1\\skiasharp.nativeassets.win32.3.119.1.nupkg.sha512"
+  ],
+  "logs": []
+}
